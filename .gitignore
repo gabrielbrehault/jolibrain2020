@@ -1,0 +1,6 @@
+/test_data
+/data
+/data_perso
+*.wav
+*.png
+/__pycache__

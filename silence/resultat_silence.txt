@@ -1,0 +1,17 @@
+cat : three  prob : 0.3499007225036621
+cat : four  prob : 0.3915172815322876
+cat : two  prob : 0.20512346923351288
+cat : two  prob : 0.36708903312683105
+cat : three  prob : 0.8350005745887756
+cat : four  prob : 0.40232154726982117
+cat : four  prob : 0.4468823969364166
+cat : two  prob : 0.4004603922367096
+cat : off  prob : 0.2533304691314697
+cat : two  prob : 0.37933751940727234
+cat : two  prob : 0.1682785302400589
+cat : three  prob : 0.8399794697761536
+cat : three  prob : 0.449678510427475
+cat : four  prob : 0.37422487139701843
+cat : three  prob : 0.7353326678276062
+cat : three  prob : 0.5794665813446045
+cat : three  prob : 0.2540031969547272
